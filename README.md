@@ -5,8 +5,9 @@ This project is a modefied version of <a href="https://github.com/AIMLModeling/B
 
 <br>
 <h2>Output Example</h2>
-![image](https://github.com/user-attachments/assets/963bd8c8-f310-466d-909a-bc4abd49ad33)
-![image](https://github.com/user-attachments/assets/0b3b72db-45a3-44d1-baa6-955aec346259)
+![image](https://github.com/user-attachments/assets/8ae1905e-57a6-4d48-bfd1-c557615cf4b7)
+
+
 
 
 
